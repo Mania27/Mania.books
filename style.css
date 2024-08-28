@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.nav{
+    height: 50px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 1px 15px -10px black;
+}
+
+.navItems{
+    margin-left: auto;
+    margin-right: 2%;
+    display: flex;
+}
+
+.navItems a {
+    color: black;
+    padding: 5px;
+    text-decoration-line: none;
+}
+
+.logo{
+    width: 25px;
+    height: 25px;
+    background-color: black;
+    margin-left: 2%;
+    border-radius: 30%;
+}
