@@ -4,6 +4,10 @@
 }
 
 .nav{
+    position: fixed;
+    top: 0;
+    background-color: white;
+    width: 100%;
     height: 50px;
     display: flex;
     align-items: center;
@@ -45,6 +49,10 @@
 
 @media (min-width: 600px) {
     .menu {display: none;}
+}
+
+section{
+    margin-top: 50px;
 }
 
 .SlideShow {
