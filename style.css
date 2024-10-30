@@ -59,7 +59,7 @@ section{
     margin-top: 50px;
 }
 
-.SlideShow {
+#SlideShow {
     background-color: lightgray;
     height: 500px;
 }
